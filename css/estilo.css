@@ -6,4 +6,5 @@ body {
 
 a {
     text-transform: uppercase;
+    list-style: none;
 }
