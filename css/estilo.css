@@ -3,3 +3,7 @@ body {
     background: url(../imagens/fundo.png);
     padding: 15px;
 }
+
+a {
+    text-transform: uppercase;
+}
