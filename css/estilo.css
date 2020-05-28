@@ -8,3 +8,13 @@ a {
     text-transform: uppercase;
     list-style: none;
 }
+
+.rodape {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(92, 92, 94);
+    color: white;
+    text-align: center;
+}
