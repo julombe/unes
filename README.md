@@ -1,7 +1,7 @@
-#UNES
+# UNES
 Página estática de uma universidade fictícia.
 
-##Funcionamento
+## Funcionamento
 
 Desenvolvido com HTML e CSS
 
