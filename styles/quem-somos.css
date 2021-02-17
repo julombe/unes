@@ -1,5 +1,6 @@
 body {
-    font-family: "Trebuchet MS", Helvetica, sans-serif;
-    background: url(../imagens/fundo2.png);
-    padding: 15px;
+  /*font-family: "Trebuchet MS", Helvetica, sans-serif;*/
+  font-family: "Poppins", sans-serif;
+  background: url(../assets/fundo2.png);
+  padding: 15px;
 }
